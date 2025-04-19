@@ -1,0 +1,72 @@
+#header {
+    background-color: black;
+    height: 300px;
+    width: 1000px;
+    color: gold;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+
+#txtbox {
+    background-color: gold;
+    height: 80px;
+    width: 500px;
+    margin-top: 90px;
+    margin-left: 250px;
+}
+
+#placeholder {
+    height: 40px;
+    width: 300px;
+    margin-right: 40px;
+    margin-top: 15px;
+    border-radius: 10%;
+}
+
+
+#button {
+    height: 40px;
+    width: 70px;
+    color: black;
+    border-radius: 10px;
+
+}
+
+
+
+#target { 
+    
+    background-color: rgb(182, 177, 177);
+    margin-top: 50px;
+    margin-left: 130px;
+    color: black;
+    font-size: xx-large;
+    font-weight: 900;
+
+   
+    text-align: center;
+    width: 1000px;
+}
+
+
+#gross {
+    color: white;
+    margin-right: 700px;
+    font-size:large;
+}
+
+#left {
+    color: white;
+    margin-right: 700px;
+    font-size:large;
+}
+
+#done {
+    color: white;
+    margin-right: 700px;
+    font-size:large;
+}
+
